@@ -18,5 +18,5 @@
 
 --------------------------------------------------------------------
 
-- 🎮 Je joue un peu de guitare, j'aime élaborer de nouveaux projets, j'utilise aussi Unreal Engine à mes heures perdues et je joue aux jeux vidéos.
-- 🎮 I play a little guitar, I like to develop new projects, I also use Unreal Engine in my spare time and I play video games.
+- 🎮 Je joue un peu de guitare, j'aime élaborer de nouveaux projets et apprendre de nouvelles technos, j'utilise aussi Unreal Engine à mes heures perdues et je joue aux jeux vidéos.
+- 🎮 I play a little guitar, I like to develop new projects and learn new technologies, I also use Unreal Engine in my spare time and I play video games.
