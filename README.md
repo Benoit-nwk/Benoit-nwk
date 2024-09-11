@@ -13,8 +13,8 @@
 
 --------------------------------------------------------------------
 
-- 📫 Vous pouvez me joindre grâce à mon portfolio : [PORTFOLIO EN COURS DE DEVELOPPEMENT]
-- 📫 You can contact me here: [PORTFOLIO UNDER DEVELOPMENT]
+- 📫 Vous pouvez me joindre grâce à mon portfolio : https://nowak-benoit.vercel.app/
+- 📫 You can contact me here: https://nowak-benoit.vercel.app/
 
 --------------------------------------------------------------------
 
