@@ -8,8 +8,8 @@
 
 --------------------------------------------------------------------
   
-- 🌱 J'apprend actuellement typescript ainsi que Node.js et je travaille aussi sur mon portfolio.
-- 🌱 I'm currently learning typescript and Node.js and i work on my portfolio.
+- 🌱 J'apprend actuellement à utiliser la bibliothèque React.js.
+- 🌱 I'm currently learning to use the library React.js.
 
 --------------------------------------------------------------------
 
