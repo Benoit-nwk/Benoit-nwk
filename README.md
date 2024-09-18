@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------------
   
-- 👀 Je recherche actuellement un premier poste de développeur web!
+- 👀 Je recherche actuellement une alternance en tant que concepteur développeur d'applications!
 - 👀 I am currently looking for a first web developer job!
 
 --------------------------------------------------------------------
