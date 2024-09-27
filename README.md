@@ -1,4 +1,4 @@
-## :fr: :grin: Bonjour, Je suis Benoît Nowak!
+## **FR** :grin: Bonjour, Je suis Benoît Nowak!
 
 - :eyes: Je recherche actuellement une alternance en tant que développeur!
 
@@ -9,7 +9,7 @@
 - :video_game: Je joue un peu de guitare, j'aime élaborer de nouveaux projets et apprendre de nouvelles technos, j'utilise aussi Unreal Engine à mes heures perdues et je joue aux jeux vidéos.
 
 
-## :uk: :grin: Hello, i'm Benoît Nowak!
+## **EN** :grin: Hello, i'm Benoît Nowak!
 
 - :eyes: I am currently looking for an internship as a developer!
   
